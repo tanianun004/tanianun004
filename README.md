@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tanianun004
+- 👋 Hi, I’m Tania Nuñez
 - 👀 I’m interested in software testing
 - 🌱 I’m currently learning how to make software testing
 - 💞️ I’m looking to collaborate on whatever it takes
